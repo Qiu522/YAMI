@@ -17,6 +17,10 @@
             "name": "💎ok"
           },
           {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Qiu522/YAMI/refs/heads/main/tv/moyu/moyu.json",
+            "name": "💎摸鱼"
+          },
+          {
             "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀道长"
           },
