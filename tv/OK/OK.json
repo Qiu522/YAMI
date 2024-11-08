@@ -1,11 +1,11 @@
 {
-  "spider": "./okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",
+  "spider": "./okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
   "wallpaper": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314187703/w1.jpg",
   "logo": "./lib/ol.txt",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🤓豆瓣",
+      "name": "🤓豆瓣┃OK猫线路",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -55,8 +55,8 @@
       "timeout": 10
     },
     {
-      "key": "多多影音",
-      "name": "👲多多┃影音",
+      "key": "多多弹幕",
+      "name": "👲多多┃4K",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -65,7 +65,6 @@
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
-		"uc_cookie": "file://TV/uc_cookie.txt",
         "site": "https://tv.yydsys.top"
       },
       "timeout": 25
@@ -170,6 +169,21 @@
       }
     },
     {
+      "key": "多多备用",
+      "name": "👲多多┃在线",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tv.yydsys.cc"
+      },
+      "timeout": 25
+    },	
+    {
       "key": "立播弹幕版",
       "name": "🐰立播┃在线",
       "type": 3,
@@ -184,23 +198,7 @@
         "site": "https://libvio.link"
       },
       "timeout": 30
-    },
-    {
-      "key": "玩你老哥",
-      "name": "😎玩偶┃网盘",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-		"uc_cookie": "file://TV/uc_cookie.txt",
-        "site": "https://tv.yydsys.cc"
-      },
-      "timeout": 25
-    },	
+    },		
     {
       "key": "蜡笔弹幕",
       "name": "👠蜡笔┃在线",
