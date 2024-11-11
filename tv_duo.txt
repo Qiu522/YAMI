@@ -21,6 +21,10 @@
             "name": "💎摸鱼"
           },
           {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Qiu522/YAMI/refs/heads/main/tv/wuyiyun/wuyiyun.json",
+            "name": "💎无意云"
+          },
+          {
             "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
             "name": "🚀道长"
           },
